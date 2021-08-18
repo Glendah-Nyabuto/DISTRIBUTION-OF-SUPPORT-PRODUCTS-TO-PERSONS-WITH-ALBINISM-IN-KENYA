@@ -1,8 +1,8 @@
 # DISTRIBUTION-OF-SUPPORT-PRODUCTS-TO-PERSONS-WITH-ALBINISM-IN-KENYA
 
-# Preparation and Analysis, 18/08/2021
+## Preparation and Analysis, 18/08/2021
 
-# By Caleb Muinde, Glendah Moraa, Ian Gathumbi, James Muguro and Naman Hirani
+## By Caleb Muinde, Glendah Moraa, Ian Gathumbi, James Muguro and Naman Hirani
 
 # Description
 In recent years, Kenya has generally been considered to be a country that is safer for persons with Albinism within the East African community, a good indicator being Isaac Mwaura who became the first Kenyan Albinism to join parliament in 2013. The government has put across measures to improve the health standards of persons with albinism following the recommendation stated in a report from a research conducted in the year 2017.  As by the report, it was clearly stated that there was lack of access to healthcare, more particularly medical checkups and appropriate sunscreen to persons with albinism. The government was also using an estimated number of persons with albinism to distribute the sunscreen which was not reliable.
