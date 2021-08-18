@@ -10,12 +10,12 @@ As stated in the previous paragraph, the government using the unreliable estimat
 It is vital for the government to ensure equal distribution of the support products and also to include measures to ensure that the sunscreen provided is appropriate.  Therefore, this project aims at drawing insights that will be used to optimize the distribution of sunscreen and support products to persons with albinism over the counties and  countrywide.
 
 # Setup/Installation Requirements
-Text editor-Atom or any text editor that supports python. If you want to interacy with the notebook offline.
-Install Python 3.9.0.
-Google colab for the data preparation and analysis online.
-Required data sets are in the zipped file.
-Download and uzip the zipped folder and exctract the file contents.
-Load and preview data sets.
+•	Text editor-Atom or any text editor that supports python. If you want to interacy with the notebook offline.
+•	Install Python 3.9.0.
+•	Google colab for the data preparation and analysis online.
+•	Required data sets are in the zipped file.
+•	Download and uzip the zipped folder and exctract the file contents.
+•	Load and preview data sets.
 
 # Known Bugs
 There are no known bugs in the application.
